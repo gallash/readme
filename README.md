@@ -1,5 +1,5 @@
 # Hi there! 👋
-My name`s Phillip Gallas and I love creating and learning new things, exploring the boundaries of my current knowledge; I also love working alongside other highly motivated people, the "vibe"-wave interference is only constructive!
+My name's Phillip Gallas and I love creating and learning new things, exploring the boundaries of my current knowledge; I also love working alongside other highly motivated people, the "vibe"-wave interference is only constructive!
 
 I'm interested in back-end engineering
 
