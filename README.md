@@ -21,4 +21,4 @@ I'm interested in back-end engineering
 0. Embedded software programming
 1. ROS
 
-Fun fact: I really love cold weather ❄️ ☃️ the Canadian winter is right for me!
+Fun fact: I really love cold weather ❄️ ☃️
