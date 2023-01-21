@@ -13,6 +13,7 @@ If my profile interests you, contact me at phillipgallas@outlook.com
 
 1. Techniques
 * OOP
+* RESTful APIs
 * TDD
 
 2. Natural languages
